@@ -43,9 +43,13 @@
 
 ​				例如我的文件名为test.md,那我不妨输入test.md(实际上什么都可以)
 
-​				复制时建议打开文件后用`Ctrl`+`Alt`+`A`全选再复制粘贴
-
 ![Image](https://github.com/Folsiti/GitHubUse/blob/main/Img/add1.png)
+
+​			通过Typor打开.md文件，`Ctrl`+`A`全选后复制，再粘贴到红色箭头部分
+
+​			效果：
+
+​		![Image](https://github.com/Folsiti/GitHubUse/blob/main/Img/xiaoguo.png)
 
 ​			然后点绿色按钮，等待上传完毕后就可以发现在仓库中多了个文件夹，里面有你的*.md文件
 
@@ -61,7 +65,7 @@
 
 ![Image](https://github.com/Folsiti/GitHubUse/blob/main/Img/pic.png)
 
-​			回到插入图片的地方我们会看到`![xxxxxxx](wwwwwwww)`,我们需要把`xxxxx`（也可能就是一个空括号）改为`[Image]`（注意大小写），`wwwwww`改为箭头指向的图片链接
+​			回到插入图片的地方我们会看到`![xxxxxxx](wwwwwwww)`,我们需要把`xxxxx`（也可能就是一个空括号）改为`[Image]`（注意大小写），把`wwwwww`改为箭头指向的图片链接
 
 ### 3.文件的修改
 
@@ -69,4 +73,6 @@
 
 ![Image](https://github.com/Folsiti/GitHubUse/blob/main/Img/edit.png)
 
-​		
+## 补充：为什么要用*.md文件
+
+​			md是MarkDown的缩写，是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档，然后转换成有效的XHTML（或者HTML）文档。在GitHub上，txt和md文档都是可以在网页中显示的，而常规使用的Word却无法直接显示，只能通过下载后才能查看。相比较txt，md文档可以有很多级标题，支持插入代码块、表格、公式块、超链接，方便了读者的查看，也方便作者进行更改，也可以不动鼠标就可以完成一篇文章。
