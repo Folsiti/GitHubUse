@@ -65,7 +65,7 @@
 
 ![Image](https://github.com/Folsiti/GitHubUse/blob/main/Img/pic.png)
 
-​			回到插入图片的地方我们会看到`![xxxxxxx](wwwwwwww)`,我们需要把`xxxxx`（也可能就是一个空括号）改为`[Image]`（注意大小写），把`wwwwww`改为箭头指向的图片链接
+​			回到插入图片的地方我们会看到`![xxxxxxx](wwwwwwww)`,我们需要把`[xxxxx]`（也可能就是一个空括号）改为`[Image]`（注意大小写），把`wwwwww`改为箭头指向的图片链接
 
 ### 3.文件的修改
 
